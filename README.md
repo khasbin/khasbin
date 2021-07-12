@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @khasbin
 - 👀 I’m interested in ...Python, Django and Computer vision
 - 🌱 I’m currently learning javascript and machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects related to python and computer vision 
 
 <!---
 khasbin/khasbin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
